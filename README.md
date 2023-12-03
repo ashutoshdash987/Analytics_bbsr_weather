@@ -5,6 +5,6 @@ To get the visualised graphs and bars PowerBi desktop is used
 
 python libraries used
 ---------------
-numpy
-pandas
-matplotlib
+numpy </br>
+pandas </br>
+matplotlib </br>
