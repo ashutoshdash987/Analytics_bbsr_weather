@@ -7,3 +7,8 @@
 - Pandas <br/>
 - Matplotlib <br/>
 - datetime <br/>
+<h3> Concepts Used in SQL </h3>
+- group by <br/>
+- join <br/>
+- rank/dense_rank <br/>
+- windows funciton <br/>
